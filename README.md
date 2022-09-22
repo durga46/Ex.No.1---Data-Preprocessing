@@ -3,7 +3,7 @@
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -31,7 +31,7 @@ Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
 
-##PROGRAM:
+## PROGRAM:
 ```python
 import pandas as pd
 import numpy as np
@@ -65,8 +65,40 @@ print("Size of X_test: ",len(X_test))
 X_train.shape
 ```
 
-##OUTPUT:
-/ Show the result/
+## OUTPUT:
 
-##RESULT
-/Type your result here/
+### Dataset
+![op1](https://user-images.githubusercontent.com/75235704/191728139-8b634c41-6f69-4a91-9ea9-29bb9fb0d440.png)
+
+### Checking for Null Values
+![op2](https://user-images.githubusercontent.com/75235704/191728291-3d272a28-51fb-463b-87f8-fae13a5b1969.png)
+### Checking for duplicate values
+![o3](https://user-images.githubusercontent.com/75235704/191728419-94a14090-eec4-426e-b15e-5d639bdef583.png)
+
+### Describing Data
+![o5](https://user-images.githubusercontent.com/75235704/191728554-021bb47b-1533-4f85-b1b1-f7d3d2273b97.png)
+### Checking for outliers in Exited Column
+![o6](https://user-images.githubusercontent.com/75235704/191728638-8eb5f8ae-d41a-415f-91d2-7313c7208ea8.png)
+### Normalized Dataset
+![o7](https://user-images.githubusercontent.com/75235704/191728729-614e91ae-a171-427b-9bc7-26c991b91018.png)
+### Describing Normalized Data
+![o8](https://user-images.githubusercontent.com/75235704/191728804-2df579e0-b1ba-49dc-b997-77ac3e965c53.png)
+### X - Values
+![o9](https://user-images.githubusercontent.com/75235704/191728909-6e02c07a-85fe-486f-8692-b8d01a93453d.png)
+### Y - Value
+![o10](https://user-images.githubusercontent.com/75235704/191728999-035b8d96-4ed3-47d4-abaf-93bef67fbf0d.png)
+### X_train values
+![o11](https://user-images.githubusercontent.com/75235704/191729078-7d4680bc-923d-42a4-a478-5f83b41557b0.png)
+### X_train Size
+![012](https://user-images.githubusercontent.com/75235704/191729188-a66c3986-9108-4a87-bc0d-02a2d9f715c4.png)
+### X_test values
+![o13](https://user-images.githubusercontent.com/75235704/191729272-c6b4e916-e53a-4300-8a29-4b6ef9180a7d.png)
+### X_test Size
+![014](https://user-images.githubusercontent.com/75235704/191729366-ce53b180-b9bb-41b3-a484-9a8780cb0fba.png)
+### X_train shape
+![o15](https://user-images.githubusercontent.com/75235704/191729464-bb65cc05-12c1-4966-94b8-77025b284123.png)
+
+
+
+## RESULT
+Data preprocessing is performed in a data set downloaded from Kaggle.
