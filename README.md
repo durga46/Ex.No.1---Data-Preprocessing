@@ -80,6 +80,9 @@ X_train.shape
 
 ### Checking for Null Values
 ![op2](https://user-images.githubusercontent.com/75235704/191728291-3d272a28-51fb-463b-87f8-fae13a5b1969.png)
+<br>
+<br><br>
+<br>
 ### Checking for duplicate values
 ![o3](https://user-images.githubusercontent.com/75235704/191728419-94a14090-eec4-426e-b15e-5d639bdef583.png)
 
