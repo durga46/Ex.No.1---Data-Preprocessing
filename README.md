@@ -24,12 +24,12 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
-Importing the libraries
-Importing the dataset
-Taking care of missing data
-Encoding categorical data
-Normalizing the data
-Splitting the data into test and train
+1. Importing the libraries
+2. Importing the dataset
+3. Taking care of missing data
+4. Encoding categorical data
+5. Normalizing the data
+6. Splitting the data into test and train
 
 ## PROGRAM:
 ```python
