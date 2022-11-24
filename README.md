@@ -65,6 +65,9 @@ print("Size of X_test: ",len(X_test))
 X_train.shape
 ```
 
+
+
+
 ## OUTPUT:
 
 ### Dataset
