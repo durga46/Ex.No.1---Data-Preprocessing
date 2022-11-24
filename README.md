@@ -93,6 +93,10 @@ X_train.shape
 ![o5](https://user-images.githubusercontent.com/75235704/191728554-021bb47b-1533-4f85-b1b1-f7d3d2273b97.png)
 ### Checking for outliers in Exited Column
 ![o6](https://user-images.githubusercontent.com/75235704/191728638-8eb5f8ae-d41a-415f-91d2-7313c7208ea8.png)
+<br><br>
+<br>
+<br>
+<br>
 ### Normalized Dataset
 ![o7](https://user-images.githubusercontent.com/75235704/191728729-614e91ae-a171-427b-9bc7-26c991b91018.png)
 ### Describing Normalized Data
