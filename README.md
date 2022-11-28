@@ -1,3 +1,5 @@
+## EX.NO.1
+## DATE: 08.09.2022
 # <p align="center">  Data-Preprocessing</p>
 
 ## AIM:
@@ -68,19 +70,21 @@ X_train.shape
 
 
 
+<br>
+<br>
+<br>
 
 ## OUTPUT:
-
 ### Dataset
 ![op1](https://user-images.githubusercontent.com/75235704/191728139-8b634c41-6f69-4a91-9ea9-29bb9fb0d440.png)
 
-
-
-
-
-
 ### Checking for Null Values
 ![op2](https://user-images.githubusercontent.com/75235704/191728291-3d272a28-51fb-463b-87f8-fae13a5b1969.png)
+<br>
+<br><br>
+<br>
+<br>
+<br>
 <br>
 <br><br>
 <br>
