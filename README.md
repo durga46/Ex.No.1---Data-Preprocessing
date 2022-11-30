@@ -13,6 +13,7 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 ## RELATED THEORETICAL CONCEPT:
 
 Kaggle :
+
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
 Data Preprocessing:
@@ -25,6 +26,9 @@ Need of Data Preprocessing :
 For achieving better results from the applied model in Machine Learning projects the format of the data has to be in a proper manner. Some specified Machine Learning model needs information in a specified format, for example, Random Forest algorithm does not support null values, therefore to execute random forest algorithm null values have to be managed from the original raw data set.
 Another aspect is that the data set should be formatted in such a way that more than one Machine Learning and Deep Learning algorithm are executed in one data set, and best out of them is chosen.
 
+<br>
+<br>
+<br>
 
 ## ALGORITHM:
 1. Importing the libraries
@@ -73,6 +77,9 @@ X_train.shape
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 ## OUTPUT:
 ### Dataset
@@ -90,6 +97,9 @@ X_train.shape
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 ### Checking for duplicate values
 ![o3](https://user-images.githubusercontent.com/75235704/191728419-94a14090-eec4-426e-b15e-5d639bdef583.png)
 
@@ -98,6 +108,9 @@ X_train.shape
 ### Checking for outliers in Exited Column
 ![o6](https://user-images.githubusercontent.com/75235704/191728638-8eb5f8ae-d41a-415f-91d2-7313c7208ea8.png)
 <br><br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
